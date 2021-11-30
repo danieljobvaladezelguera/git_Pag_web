@@ -1,11 +1,19 @@
 *{
-    margin: 0;
-    box-sizing: border-box;
+  margin: 0;
+  box-sizing: border-box;
 }
-
 title{
   text-align: center;
 }
+body{
+  background-color: blue;
+}
+
+.header{
+  height: 100px;
+  background: gray;
+}
+
 
 div#Titulo{
   text-align: center;
