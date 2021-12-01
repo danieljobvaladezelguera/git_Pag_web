@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+title{
+  text-align: center;
+}
+body{
+  background-color: orange;
+}
+
+.header{
+  height: 100px;
+  background: brown;
+}
+h1{
+  text-align: center;
+  font-family: cursive;
+  font-style: normal;
+  font-size: xx-large;
+}
+h2{
+  text-align: center;
+  font-family: serif;
+  font-style: oblique;
+  font-size: normal;
+}
+
+div#Titulo{
+  text-align: center;
+}
