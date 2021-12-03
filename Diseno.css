@@ -5,19 +5,19 @@
 title{
   text-align: center;
 }
-body{
-  background-color: orange;
+div#Titulo{
+  text-align: center;
 }
-
-.header{
-  height: 100px;
-  background: brown;
-}
-h1{
+.Titulo .h1{
   text-align: center;
   font-family: cursive;
   font-style: normal;
   font-size: xx-large;
+}
+.header{
+  height: 100px;
+  width: auto;
+  background: brown;
 }
 h2{
   text-align: center;
@@ -25,7 +25,23 @@ h2{
   font-style: oblique;
   font-size: normal;
 }
-
-div#Titulo{
+.body .imagen_1{
+  border: 1px solid;
+  height: 200px;
+  width: 150;
+}
+body{
+  background-color: orange;
+  text-align: justify;
   text-align: center;
+}
+.body .Tabla_1{
+  table-layout: auto;
+  border-spacing: 30px;
+}
+.body .Img_1{
+  width: 600px;
+  height: 450px;
+  image-resolution: from-image;
+  image-orientation: auto;
 }
