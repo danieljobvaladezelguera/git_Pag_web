@@ -19,6 +19,10 @@ div#Titulo{
   width: auto;
   background: brown;
 }
+body{
+  background-color: orange;
+  text-align: center;
+}
 h2{
   text-align: center;
   font-family: serif;
@@ -27,21 +31,12 @@ h2{
 }
 .body .imagen_1{
   border: 1px solid;
-  height: 200px;
-  width: 150;
-}
-body{
-  background-color: orange;
-  text-align: justify;
-  text-align: center;
+  height: 250px;
+  width: auto;
 }
 .body .Tabla_1{
   table-layout: auto;
   border-spacing: 30px;
-}
-.body .Img_1{
-  width: 600px;
-  height: 450px;
-  image-resolution: from-image;
-  image-orientation: auto;
+  table-layout: auto;
+  margin: auto;
 }
