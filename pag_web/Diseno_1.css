@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+title{
+  text-align: center;
+}
+div#Titulo{
+  text-align: center;
+}
+.Titulo .Tit_1{
+  text-align: center;
+  font-family: cursive;
+  font-size: 90px;
+  letter-spacing: 2PX;
+}
+.header{
+  height: 160px;
+  width: auto;
+  background: brown;
+}
+.header .Logo{
+  height: 100px;
+  width: auto;
+}
+.header .Tabla_cab{
+  table-layout: auto;
+  margin: auto;
+}
+body{
+  background-color: orange;
+  text-align: center;
+}
+h2{
+  text-align: center;
+  font-family: serif;
+  font-style: oblique;
+  font-size: 3 em;
+
+}
+.body .imagen_1{
+  border: 5px solid;
+  border-color: rgba(0, 0, 0);
+  height: 250px;
+  width: auto;
+}
+.body .Tabla_1{
+  table-layout: auto;
+  border-spacing: 30px;
+  table-layout: auto;
+  margin: auto;
+}
