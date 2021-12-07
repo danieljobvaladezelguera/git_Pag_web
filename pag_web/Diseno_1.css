@@ -36,7 +36,6 @@ h2{
   font-family: serif;
   font-style: oblique;
   font-size: 3 em;
-
 }
 .body .imagen_1{
   border: 5px solid;
@@ -49,4 +48,7 @@ h2{
   border-spacing: 30px;
   table-layout: auto;
   margin: auto;
+}
+.body .Tabla_1 .M_texto{
+  font-size: 40px
 }
