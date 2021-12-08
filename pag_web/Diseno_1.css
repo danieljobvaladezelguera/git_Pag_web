@@ -14,16 +14,19 @@ div#Titulo{
   font-size: 90px;
   letter-spacing: 2PX;
 }
-.header{
+header{
   height: 160px;
   width: auto;
   background: brown;
 }
-.header .Logo{
+header .Logo{
   height: 100px;
   width: auto;
 }
-.header .Tabla_cab{
+header .Logo:hover{
+  -webkit-tranform: scale(1.3); transform: scale(1.3);
+}
+header .Tabla_cab{
   table-layout: auto;
   margin: auto;
 }
@@ -37,18 +40,24 @@ h2{
   font-style: oblique;
   font-size: 3 em;
 }
-.body .imagen_1{
+body .imagen_1{
   border: 5px solid;
   border-color: rgba(0, 0, 0);
   height: 250px;
   width: auto;
 }
-.body .Tabla_1{
+body .imagen_1:hover{
+  filter: opacity(0.5);
+}
+body .Tabla_1{
   table-layout: auto;
   border-spacing: 30px;
   table-layout: auto;
   margin: auto;
 }
-.body .Tabla_1 .M_texto{
+body .Tabla_1 .M_texto{
   font-size: 40px
+}
+body .contacto{
+  text-align: center;
 }
